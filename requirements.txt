@@ -1,0 +1,12 @@
+streamlit
+pdf2image
+pillow
+python-pptx
+koreanize-matplotlib
+
+# streamlit
+# pdf2image
+# python-pptx
+# pillow
+# poppler-utils
+# koreanize-matplotlib
